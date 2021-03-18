@@ -1,1 +1,1 @@
-# v2ray-okteto
+# v2r-okteto
